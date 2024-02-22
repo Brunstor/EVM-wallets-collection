@@ -1,0 +1,11 @@
+{
+  "name": "brunstor",
+  "version": "1.0.0",
+  "description": "js EVM wallets collection",
+  "main": "EVM_TABLE_MAKET-2.js",
+  "scripts": {
+    "test": "go"
+  },
+  "author": "Brunstor",
+  "license": "ISC"
+}
